@@ -52,7 +52,8 @@
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/a-raiyan-ahmed-5634a6281/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/a-raiyan-ahmed-5634a6281/) 
+[![Twitter](https://img.shields.io/badge/-Twitter-0077B5?style=flat-square&logo=Twitter&logoColor=black)](https://x.com/Raix1982006)
 📫 Email: raiyanahmed3089@gmail.com  
 📍 Based in: India | Open to internships @ ISRO / DRDO / Startups in Aerospace
 
